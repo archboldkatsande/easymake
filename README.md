@@ -1,0 +1,2 @@
+# easymake
+my first project
